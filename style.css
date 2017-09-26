@@ -217,4 +217,12 @@ footer {
   padding: 20px;
   font-weight: bold;
 }
+#prof {
+  border-color: black;
+  width:50%;
+  border-radius: 50%;
+}
 
+.project {
+  width:100%;
+}
